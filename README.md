@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @seudomar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I’m Eudomar 👋
 
+![me](https://github.com/seudomar/seudomar/blob/main/banner-link.png)
 
-seudomar/seudomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+```javascript
+const eudomar = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Php],
+  tools: [React, Redux, Node, Docker]
+```
 
+You can find me :earth_africa::
+
+- Instagram
+-

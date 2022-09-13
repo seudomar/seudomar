@@ -2,6 +2,7 @@
 
 ![me](https://github.com/seudomar/seudomar/blob/main/banner-link.png)
 
+## About me in code
 ```javascript
 const eudomar = {
   pronouns: "he" | "him",
